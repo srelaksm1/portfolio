@@ -1,0 +1,6 @@
+day 1: 07/02/25
+learned:  html tags--> <a> <table> <li>
+        css-->hover
+implemented : above basic html and css tags like <a> <table> <li>
+challenges: 
+
