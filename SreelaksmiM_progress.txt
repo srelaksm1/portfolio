@@ -4,3 +4,8 @@ learned:  html tags--> <a> <table> <li>
 implemented : above basic html and css tags like <a> <table> <li>
 challenges: 
 
+day 2: 08/02/25
+learned:<ol> <ul>
+        js-->validation
+implemented: table,ordered list, form using js validation
+challenges:
